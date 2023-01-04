@@ -1,0 +1,300 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body p{
+    color:#686868;
+    font-family:Alegreya Sans,sans-serif,monospace ;
+    line-height: 2;
+    text-align: center;
+    padding-bottom:35px ;
+
+}
+header {
+  background-image:url(images/drew-coffman-1872.jpg);
+  height: 100vh;
+  background-size:100% 100%; 
+  overflow: auto;
+
+}
+.home{
+    padding: 10px 0px;   
+    width: 100%;
+        
+}
+ .home ul{
+    color: white;
+    list-style: none; 
+    text-align: right;
+    margin-right:40px; 
+    float: right;
+     
+}
+ .home ul li{
+    text-align:right;
+    display: inline-block;
+    width: 7%;
+    padding: 5px 20px;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+.clr{
+    clear: both;
+
+}
+.lo img{
+    width: 140px;
+    padding: 15px 40px;
+    float: left;
+
+}
+.c-home{
+    width:85% ;
+    margin: 100px auto 0px;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+.c-home h1{ 
+    font-size: 70px;
+
+}
+.c-home p{
+    color: #ccc;
+    font-size: 26px;
+    text-overflow: clip;
+}
+
+.btn1 {
+    color: white;
+    background-color:#8e7754 ;
+    border:none;
+    margin: 10px 10px;
+    padding: 15px 20px;
+    font-size: 17px;
+}
+.btn2{
+    background-color: transparent;
+    color: white;
+    margin: 10px 0px;
+    padding: 15px 20px;
+    border: 1px solid white;
+    font-size: 17px;
+
+}
+.who{
+    text-align: center;
+    margin: 65px 75px;
+    
+}
+.who p{
+
+}
+.who img{
+    width: 45%;
+    float: left;
+     padding-right: 30px;
+}
+.clr{
+    clear: both;
+
+}
+.whoc1 img{
+    width: 15%;
+    padding: 0px;
+
+}
+.whoc1{
+    float: left;
+    width: 40%;
+}
+.whoc1 ul li {
+    line-height: 4;
+    list-style: none;
+   padding-right:30px;
+   text-align: left;
+    color:#686868;
+}
+.clr{
+    clear: both;
+
+}
+.ourl{
+    background-color:#f8f8f8;
+    height: 70%;
+    text-align: center;
+    margin: 0px 0x 65px;
+    padding: 60px 50px 40px;
+    
+}
+.ourl img {
+    width: 45%;
+    float: right;
+     
+}
+.who h2 , .ourl h2 , .ourb h2 , .con h2{
+    margin: 30px;
+    font-size: 25px;
+    color: #303030;
+ }
+ .ourl h2{
+    text-align: center;
+    width: 39%;
+   
+ }
+ .ourl p{
+   line-height: 2;
+   width: 46%; 
+  
+ }
+
+.clr{
+    clear: both;
+}
+
+.ourb{
+    text-align:  center;
+}
+.ourb p {
+    margin:40px 0px 0px;
+   
+}
+
+.bbb{
+    width: 90%;
+    margin: auto ;
+   
+}
+.b3 {
+    display: inline-block;
+    width:32.333%;
+    text-align: center;
+    padding: 0% 4px;
+    margin: auto;
+}
+.b3 p {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0px 10px 60px;
+}
+.b3 img {
+    width: 100%;
+    padding:0px 30px 30px;
+  
+}
+.con{
+    text-align: center;
+    background-color:#f8f8f8;   
+    padding: 60px 50px 40px;
+    height:80%;
+}
+.con img{
+    width: 40%;
+    float: right;
+    height: 80%;
+
+}
+.con p{
+    width: 70%;
+}
+.clr{
+    clear: both;
+
+}
+.conc img{
+    width: 10px;
+    text-align: left;
+
+}
+.ou{
+   text-align: left;
+   padding-left:40px ;
+   margin-bottom: 20px;
+}
+
+.ime{
+    
+    width:30%;
+    padding: 0px;
+}
+.ime img{
+    
+    width:45px;
+    height: 40%;
+    display: inline-block;
+    float: left;
+    padding-left:30px;
+
+}
+.clr{
+    clear: both;
+}
+
+.tt {
+    padding: 0px;
+    width:550px;
+    height: 60px;   
+    
+}
+.t{
+    padding: 0px;
+    width:350px;
+    height: 60px;
+
+}
+.t2{
+    padding: 0px;
+    width:300px;
+    height: 60px;
+}
+
+.darkb {
+    background-color: #403d38;
+    padding:20px 0px 20px 30px;
+}
+.b1 , .b2 , .b33 , .b4 {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    padding: 0px 18px 18px 18px;
+    line-height: 4;
+}
+.darkb h3 {
+    color: white;
+    text-align: left;
+    display: inline-block;
+}
+.darkb p {
+    color:#969696;
+    font-size:18px ;
+    font-weight: 400;
+    padding-left:15px ;
+
+}
+.b2, .b33{
+    padding-top:0px ;
+}
+.cp  {
+    font-weight: 500;
+    line-height: 3;
+}
+
+.b1 p {
+    line-height: 2;
+}
+.b44{
+    line-height: 1.4;
+}
+
+.f{
+    background-color: #353330;
+    text-align: center;
+    padding: 50px 0px;
+    height: 30%;
+}
+.fp img{
+    width: 20%;
+}
